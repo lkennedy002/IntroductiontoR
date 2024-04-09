@@ -1,0 +1,143 @@
+{
+  "version": "3.83.31444.0",
+  "course_id": "6XR8ijDHYrd",
+  "title": "R Course Chapter 2 - Operators in R",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Operators"
+    },
+    {
+      "title": "Assignment Operators"
+    },
+    {
+      "title": "Arithmetic Operators"
+    },
+    {
+      "title": "Relational Operators"
+    },
+    {
+      "title": "Logical Operators"
+    },
+    {
+      "title": "Other Operators"
+    },
+    {
+      "title": "End of Course"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6APGb8yNptj",
+      "title": "Introduction",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "61OwoIStvn9",
+      "title": "Accessibility",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "661L5raK7Ja",
+      "title": "Navigation",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6BnjukMfIY6",
+      "title": "Introduction to R(RStudio): The Basics",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6UOh3CZaTV3",
+      "title": "Learning Objectives",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6em4buSuaI7",
+      "title": "Operators",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5cvm7Mq95Zw",
+      "title": "Assignment Operators",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6eOhaxDGhp2",
+      "title": "Arithmetic Operators",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5dyQ3Fnna1R",
+      "title": "Assign Values",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5mZv34r4rMq",
+      "title": "Assign Value Examples",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6D0NyCGkd9b",
+      "title": "Matrices",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6EzUKu8FENU",
+      "title": "Matrix Examples",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "6ArVoZXIuaY",
+      "title": "Relational Operators",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "60CinGQPWLe",
+      "title": "Recall MatA and MatB",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "6cJZ3EN8ewp",
+      "title": "Logical Operators",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "6PMAkZWsEk1",
+      "title": "Examples",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "6bdc9Iw1mKg",
+      "title": "Other Operators ;",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "5t3kIduc71o",
+      "title": "Other Operators :",
+      "scene_index": "7.2"
+    },
+    {
+      "id": "6Rbf6bQo5DY",
+      "title": "Other Operators %in%",
+      "scene_index": "7.3"
+    },
+    {
+      "id": "5quvO4u3UkE",
+      "title": "Thank You",
+      "scene_index": "8.1"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1220,
+    "height": 634
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

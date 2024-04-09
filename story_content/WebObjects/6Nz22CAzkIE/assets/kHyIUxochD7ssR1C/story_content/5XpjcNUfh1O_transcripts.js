@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":352,"text":"Logical operators are used to combine conditional statements."},{"start":5296,"text":"We have the OR operator, the double OR operator,"},{"start":9478,"text":"AND operator, the double AND operator"},{"start":13072,"text":"and the NOT operator."},{"start":15200,"text":"The OR operator returns TRUE,"},{"start":17643,"text":"if at least one of the statements is TRUE."},{"start":21600,"text":"The AND operator on the other hand,"},{"start":24348,"text":"returns TRUE, only if all the statements are TRUE"},{"start":31008,"text":"and we have the NOT operator which returns a negation,"},{"start":36212,"text":"or the opposite or the reverse of a statement."},{"start":40992,"text":"Let's look at a couple of examples."}]}]};
+    window.globalLoadJsAsset('story_content/5XpjcNUfh1O_transcripts.js', JSON.stringify(data));
+})();
